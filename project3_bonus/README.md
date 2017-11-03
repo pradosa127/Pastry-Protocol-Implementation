@@ -13,9 +13,9 @@ project3_bonus.ex
 To run Pastry algorithm using Full network topology the command is as follows:
  Compile the project from the project3 directory.
  
-$ mix escript.build
+# $ mix escript.build
 Run the project with the command
-$  ./project3 numNodes numRequests numFailuer
+# $  ./project3 numNodes numRequests numFailuer
 E.g.   $  ./project3_bonus 100 10 20
 # 4. What is working
 
